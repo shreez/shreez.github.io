@@ -5,6 +5,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  .page__title {
+    display: none;
+  }
+</style>
 
 About me
 ======
