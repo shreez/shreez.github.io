@@ -1,6 +1,5 @@
 ---
 permalink: /
-#title: "shreez page"
 author_profile: true
 redirect_from: 
   - /about/
